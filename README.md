@@ -1,7 +1,6 @@
 # olympic_rings
 
-Olympic Rings in Processing
-CREATIVE CODING CLASS | PADILLA | ALHS | 2018
+# Olympic Rings in Processing
 
 
 # GOALS For This Assignment
